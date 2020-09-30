@@ -12,15 +12,24 @@ Using the open source plans for MudPi, this first version of the AutoVeg will gr
 
 ## Requirements: 
 ### Ease of Use: 
-The system, when fully built, should be easily modularized and expandable for more complex growing conditions and requirements in order to optimize the health and productivity of the plants. 
-There will be no (few) electricians required - only standard plugs and electrical systems when fully built. 
-The parts must be purchasable from any standard hardware store. 
-Growth optimized for vegetables (to be researched)
-Light spectrum (LED lights will be used)
-Temperature (for now ambient room temperature (15-25C)
-Air Flow
-Soil pH and nutrition
-Moisture levels in soil
+- The system, when fully built, should be easily modularized and expandable for more complex growing conditions and requirements in order to optimize the health and productivity of the plants. 
+
+- There will be no (few) electricians required - only standard plugs and electrical systems when fully built. 
+
+- The parts must be purchasable from any standard hardware store. 
+
+- Growth optimized for vegetables (to be researched).
+
+- Light spectrum (LED lights will be used).
+
+- Temperature (for now ambient room temperature (15-25C).
+
+- Air Flow.
+
+- Soil pH and nutrition.
+
+- Moisture levels in soil.
+
 ### Expandable from basic (light and water controls) to elaborate (see list above).
 Contain a database of plant-specific desired growing conditions - from tomatoes and peppers (warm) to kale and chard (cool), the system will allow you to select which plants you have, and will automatically detect which components you have to determine the level of control and automation the system can use. 
 

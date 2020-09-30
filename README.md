@@ -7,6 +7,9 @@ For this first round (beginning Sept 2020), it will be based purely on the MudPi
 
 However the main difference will be that it is indoors, using LED grow lights, in a grow tent to maximize light availability for the plants. 
 
+## Getting Started
+This will be updated as system is built. 
+
 ## Plan for First Iteration: 
 Using the open source plans for MudPi, this first version of the AutoVeg will grow simple vegetables that are generally easy to grow. For now these will be the herb Lemon Balm (Melissa officinalis) and Kale (Brassica oleracea) for both nutritional value and ease of growth. As space allows, other herbs or veggies may be grown as well. 
 
